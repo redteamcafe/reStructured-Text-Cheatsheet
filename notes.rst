@@ -63,7 +63,27 @@ Images
 
 ::
 
-  .. images:: doc/file.txt
-    :scale: 50%
+  .. image:: doc/file.txt
+    :height: 400px
+    :width: 400 px
+    :scale: 50 %
+    :alt: alternative text
+    :align: (top, middle, bottom, left right center)
+    :target: reference URI
+    
+
+====
+Links
+====
+
+
+Internal
+====
+
+
+External
+====
+
+
 
 
