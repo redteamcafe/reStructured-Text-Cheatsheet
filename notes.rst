@@ -55,3 +55,15 @@ Lists
   1. num list
   2. num list
   #. num list
+
+
+====
+Images
+====
+
+::
+
+  .. images:: doc/file.txt
+    :scale: 50%
+
+
